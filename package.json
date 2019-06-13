@@ -1,3 +1,4 @@
+## Maintain the dependencies i.e. here express is only dependency we need.
 {
   "name": "nodejs-applicaton-with-docker",
   "version": "1.0.0",
