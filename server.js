@@ -1,3 +1,5 @@
+## Here we are creating a server usign static express module.
+
 var express = require("express");
 
 var app = express();
